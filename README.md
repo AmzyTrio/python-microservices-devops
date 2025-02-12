@@ -27,6 +27,7 @@ mkdir mylib
 touch mylib/__init__.py
 touch mylib/logic.py
 touch main.py
+touch test_logic.py
 3) Populate Makefile (to articulate all the different things we need to do for our project)
     Populated all the dependecies in the requirements.txt file. Then within the make file within install wrote the below to install the dependencies.
     pip install -r requirements.txt
