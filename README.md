@@ -1,6 +1,8 @@
 # python-microservices-devops
 
-Scaffold
+[![Python application test with Github Actions](https://github.com/AmzyTrio/python-microservices-devops/actions/workflows/devops.yml/badge.svg)](https://github.com/AmzyTrio/python-microservices-devops/actions/workflows/devops.yml)
+
+#Scaffold
 Code repo will have following structure:
 Makefile
 requirements.txt 
