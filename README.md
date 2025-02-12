@@ -32,3 +32,4 @@ touch main.py
     pip install -r requirements.txt
     make install (run this command to install)
     To freeze the dependency version numbers, use command 'pip freeze' to see the current versions and then update the requirements.txt file.
+4) Setup continuous integration with auto installing dependencies, lint checks, formats, running tests etc.
