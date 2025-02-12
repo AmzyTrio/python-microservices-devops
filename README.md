@@ -25,4 +25,8 @@ mkdir mylib
 touch mylib/__init__.py
 touch mylib/logic.py
 touch main.py
-3) Populate Makefile ( to articulate all the different things we need to do for our project)
+3) Populate Makefile (to articulate all the different things we need to do for our project)
+    Populated all the dependecies in the requirements.txt file. Then within the make file within install wrote the below to install the dependencies.
+    pip install -r requirements.txt
+    make install (run this command to install)
+    To freeze the dependency version numbers, use command 'pip freeze' to see the current versions and then update the requirements.txt file.
